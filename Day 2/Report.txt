@@ -1,0 +1,19 @@
+                                                                       Report
+
+Introduction:
+  In This Report,Talking about sum of quantity by food type based on customer's satisfaction.
+
+Quantity of food types:
+
+1) Main course is reached in 6666 of each process of customer's first satisfaction.
+
+2) Snacks reached in second process of food quantity in 4566.
+
+3) Dessert and Breakfast has reached in same as third quantity of food type in 1600 each.
+
+4) Beverage and appetizer are taking very low quantity of customer's satisfaction.
+
+Conclusion:
+  We delivered 15000+ orders of food types based on customer's satisfaction.Main course takes first place,
+snacks reached in second and dessert and breakfast has reached in same level of third place.But,beverage and
+appetizer are taking very low level of customer's satisfaction.  
